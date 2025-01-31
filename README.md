@@ -19,11 +19,4 @@ LeadDrive is a lead management system built with React, TypeScript, and Vite. It
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/leaddrive.git
-   cd leaddrive
+- npm
